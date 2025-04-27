@@ -1,0 +1,10 @@
+# Ignorar todos os executáveis (arquivos sem extensão) que começam com Q, em qualquer subpasta.
+**/Q*
+
+# Ignorar arquivos de compilação.
+*.o
+*.out
+
+# Nunca ignorar os arquivos de código.
+!**/*.cpp
+!**/*.h
