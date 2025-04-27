@@ -2,8 +2,8 @@
 
 int main () {
 
-    int num;
     bool primo = true;
+    int num;
     int contadorDivisores = 0;
 
 
